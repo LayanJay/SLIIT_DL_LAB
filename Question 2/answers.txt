@@ -1,3 +1,3 @@
-1. When the number of hidden nodes increase the accuracy potentially increases. The number of data required to train the model increases and the time to train the model also increases. The network becomes better at capturing patterns in the input data. There is also a risk of overfitting.
+Elevating the count of hidden nodes can enhance accuracy, but it accompanies escalated data and training time demands. The network's proficiency in grasping input patterns improves, yet there's a peril of overfitting.
 
-2. The accuracy tends to increase as the number of hidden units grows, but there's a point at which adding more units may not yield substantial benefits or could even lead to a slight decrease in performance due to overfitting or other factors.
+Accuracy typically rises with an increase in hidden units, but there's a threshold beyond which further units might not significantly enhance performance. This could even result in a slight decline due to overfitting or other considerations.
