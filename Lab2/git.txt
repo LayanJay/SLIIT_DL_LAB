@@ -1,2 +1,2 @@
 Github link
-https://github.com/LayanJay/SLIIT_DL_LAB_02
+https://github.com/LayanJay/SLIIT_DL_LAB
